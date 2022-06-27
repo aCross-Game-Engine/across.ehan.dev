@@ -1,1 +1,1 @@
-![across.ehan.dev](./assets/github/banner.png)
+![across.ehan.dev](./assets/branding/github/banner.png)
