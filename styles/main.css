@@ -4,10 +4,6 @@ html, body {
     margin: 0;
 }
 
-body {
-    background-color: #2d5595
-}
-
 html {
     position: relative;
     overflow: hidden;
