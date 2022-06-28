@@ -2,15 +2,15 @@ html, body {
     width: 100%;
     height: 100%;
     margin: 0;
+}
+
+html {
+    position: relative;
+    overflow: hidden;
     background-color: #2d5595
 }
 
-body {
-    position: relative;
-    overflow: hidden;
-}
-
-body::before {
+html::before {
     content: "";
     position: absolute;
     width: 200%;
