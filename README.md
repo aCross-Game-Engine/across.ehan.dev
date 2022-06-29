@@ -2,4 +2,4 @@
 
 So you may be asking, "What is this?", the answer is "Yes.".
 
-No explanation neccesary for now
+No explanation necessary for now.
