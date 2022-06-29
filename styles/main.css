@@ -9,3 +9,17 @@ body {
   height: 100%;
   margin: 0;
 }
+.background {
+    content: "";
+    position: fixed;
+    width: 250%;
+    height: 250%;
+    top: -75%;
+    left: -75%;
+    z-index: -1;
+    background-color: #2d5595;
+    background-image: url("../assets/images/background.png");
+    background-size: 50%;
+    background-repeat: repeat;
+    transform: rotate(22.5deg);
+  }
